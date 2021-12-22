@@ -6,7 +6,7 @@
     "configurations": [
         {
             "cwd": "${workspaceFolder}/src",
-            "name": "Python: Module",
+            "name": "c-w: run locally",
             "type": "python",
             "request": "launch",
             "module": "main",
